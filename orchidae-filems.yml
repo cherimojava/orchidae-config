@@ -2,6 +2,3 @@ spring.data.mongodb:
   host: localhost
   port: 27017
   database: filems
-filems.picture.directory: /Users/pknobel/Pictures
-server:
-  port: 8510
