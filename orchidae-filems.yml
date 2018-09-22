@@ -5,3 +5,4 @@ spring.data.mongodb:
 filems:
   picture:
     directory: "~/Pictures"
+server.port: 8510
