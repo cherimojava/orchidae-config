@@ -4,4 +4,4 @@ spring.data.mongodb:
   database: filems
 filems.picture.directory: /Users/pknobel/Pictures
 server:
-  port: 18010
+  port: 8510
